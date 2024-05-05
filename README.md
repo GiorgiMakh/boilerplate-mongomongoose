@@ -16,3 +16,7 @@ Instructions for completing these lessons start at https://www.freecodecamp.org/
 - [x] Delete One Document Using model.findByIdAndRemove
 - [x] Delete Many Documents with model.remove()
 - [x] Chain Search Query Helpers to Narrow Search Results
+
+----
+
+ <p align="center"><a href='https://ko-fi.com/giorgimakh' target='_blank'><img height='42' style='border:0px;height:42px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
